@@ -1,2 +1,4 @@
 .git
 nere-app/static/node_modules
+test/
+week-one/
