@@ -1,2 +1,9 @@
 stage/
 nere-app/
+
+data/
+evaluation-model/
+evaluation-results/
+pipelines/
+workflows/
+evaluation-models/
