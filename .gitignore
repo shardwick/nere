@@ -1,118 +1,13 @@
-# Eval metrics and meta exchange files / optimized / pyspark 
 stage/
 nere-app/
 
 data/
-evaluation-model-headstart/
+evaluation-model/
 evaluation-results/
 pipelines/
 workflows/
 evaluation-models/
 
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# PyInstaller
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py.cover
-.pytest_cache/
-cover/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Environments
-.env
-.envrc
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/   
-
-# Compiled Java files
-*.class
-
-# Build directories
-build/
-out/
-target/
-
-# Maven
-.mvn/
-mvnw
-mvnw.cmd
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-
-# Gradle
-.gradle/
-build/
-.gradle/
-gradle/
-gradlew
-gradlew.bat
-wrapper/
-*.jar
-
-# IDE
-.idea/
-*.iml
-*.iws
-*.ipr
-*.swp
-*.swo   
+mainframe/
+mvps/
