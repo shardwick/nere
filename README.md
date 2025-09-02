@@ -6,3 +6,6 @@ In honor of the greatest mathematicians in history, we apply their knowledge to 
 ## run your project with nere
 
 ios 
+
+- Run a quick statistical scan
+- Interpret your use case
